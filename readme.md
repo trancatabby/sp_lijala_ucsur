@@ -1,0 +1,3 @@
+Lijala is a personal radical keyboard I made for typing [UCSUR sitelen pona.](https://www.kreativekorp.com/ucsur/charts/sitelen.html) Like another toki pona keyboard, [nasin Wakalito,](https://sona.pona.la/wiki/Wakalito) it uses radicals (recurring pieces of glyphs) to type words. *Un*like Wakalito, however, it was designed for two reasons:
+- Be as simple to type as possible. In Lijala, words should (hopefully) take less keypresses than in Wakalito. This was my main problem with Wakalito itself, and I aim to solve it with Lijala.
+- Be fluid. Every step to making a word should be another word. This one was just a goal of mine so I could save as much space as possible, and it was a pain to implement until I remembered deadkeys exist.
